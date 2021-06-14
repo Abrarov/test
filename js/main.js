@@ -1,4 +1,4 @@
-/*var myImage = document.querySelector('img');
+var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
@@ -8,7 +8,7 @@ myImage.onclick = function() {
       myImage.setAttribute ('src','img/512px-Mozilla_Firefox_logo_2013.png');
     }
 }
-var myButton = document.querySelector('button');
+/*var myButton = document.querySelector('button');
 var myHeading = document.querySelector('h1');
 function setUserName() {
     var myName = prompt('Please enter your name.');
@@ -24,4 +24,4 @@ function setUserName() {
   myButton.onclick = function() {
     setUserName();
   }
-  */
+  
