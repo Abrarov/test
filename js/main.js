@@ -1,4 +1,4 @@
-var myImage = document.querySelector('img');
+/*var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
     var mySrc = myImage.getAttribute('src');
@@ -24,4 +24,4 @@ function setUserName() {
   myButton.onclick = function() {
     setUserName();
   }
-  
+  */
